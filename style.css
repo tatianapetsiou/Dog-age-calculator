@@ -1,0 +1,10 @@
+html{
+    background-image: url("dogs-image.png");
+    background-repeat: no-repeat;
+    text-align: center;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+
+}
+
